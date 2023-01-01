@@ -1,1 +1,1 @@
-self.addEventListener('fetch',() => console.log("fetch"));
+('/2km_standard/serviceWorker.js').addEventListener('fetch',() => console.log("fetch"));
