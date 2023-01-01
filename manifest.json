@@ -1,0 +1,19 @@
+{
+  "name": "FV standard 2km",
+  "short_name": "standard 2km",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo192.jpg",
+      "type": "image/jpg", "sizes": "191x110"
+    },
+    {
+      "src": "/logo512.jpg",
+      "type": "image/jpg", "sizes": "511x294"
+    }
+  ]
+}
