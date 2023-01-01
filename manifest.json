@@ -1,7 +1,7 @@
 {
   "name": "FV standard 2km",
   "short_name": "standard 2km",
-  "start_url": "/",
+  "start_url": "/2km_standard",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
